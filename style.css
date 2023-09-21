@@ -1,0 +1,32 @@
+body{
+    background-color: lightblue;
+}
+input{
+    display: block;
+    width: 200px;
+    height: 25px;   
+}
+.p1{
+    color: red;
+    font-size: 30px;
+}
+.checkbox, .radio{
+    width: 15px;
+    height: auto;
+    display: inline;
+}
+.p2{
+color: rgb(207, 176, 0);
+font-size: 25px;
+}
+.dodo{
+   border: solid black 1px ;
+}
+.yes{
+    font-size: 25px;
+}
+.oro{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
